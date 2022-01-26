@@ -1,2 +1,2 @@
 # webservice_project
-code of the project
+code of the project: Food Delivery Webservice Application
